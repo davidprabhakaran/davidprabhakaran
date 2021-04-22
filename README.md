@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="davidprabhakaran's GitHub Stats" src="https://github-readme-stats-davidprabhakaran.vercel.app/api?username=davidprabhakaran&show_icons=true&hide_border=true" />
+  <img align="left" alt="davidprabhakaran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidprabhakaran&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
 
 </details>
 <details>
