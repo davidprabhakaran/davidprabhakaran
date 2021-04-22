@@ -23,6 +23,9 @@
   <img align="left" alt="davidprabhakaran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidprabhakaran&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
 
 </details>
+<br>
+<br>
+<br>
 <details>
   <summary>:zap: What I Most Used</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidprabhakaran&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
