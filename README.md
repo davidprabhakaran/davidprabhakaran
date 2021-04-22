@@ -35,6 +35,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 
 ---
+## More About Me:man:
+
+:heart: Kind people are my kinda people
+
+:100: Radical for Jesus
+
+:star: Uniquely naive tho independent
+
+:apple: Beginner mindset (**open to learning**)
+
+:sparkles: Child at mind (**i see the world as miracl**)
+
+
+>*I love to race in where animals fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+---
 ### 📈 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=davidprabhakaran&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
