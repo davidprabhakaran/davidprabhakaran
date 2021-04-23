@@ -22,7 +22,6 @@ Hi, I'm [𝔡𝔞𝔳𝔦𝔡𝔭𝔯𝔞𝔟𝔥𝔞𝔨𝔞𝔯𝔞𝔫](https
 I am also an open-source enthusiast. I learned a lot from the open-source community 
 
  <h2>:anger:𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘:dizzy:<h2>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
