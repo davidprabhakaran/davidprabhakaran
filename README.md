@@ -51,13 +51,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ― Albert Einstein*
 
 ---
-### 📈 My GitHub Stats
+### 📈 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs:
 
 ![](https://github-readme-stats.vercel.app/api?username=davidprabhakaran&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ---
 
-### ✨ What I Used Most:
+### ✨ ωнαт ι υѕє∂ мσѕт:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidprabhakaran&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ___
