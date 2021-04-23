@@ -1,5 +1,5 @@
-![](https://imgur.com/a/QUloU55)
-
+<img  width="30%" src="./hi.gif">
+<h2>:fire:𝕗𝕚𝕟𝕕 𝕞𝕖  𝕠𝕟:</h2>
 <a herf="#">
 <img align="left" alt="david's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,10 +17,11 @@
 <br>
 <br />
 
-Hi, I'm [David Prabhakaran](https://www.rr.com/), a passionate self-taught fron-end web developer and a freelance app developer from India. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [𝔡𝔞𝔳𝔦𝔡𝔭𝔯𝔞𝔟𝔥𝔞𝔨𝔞𝔯𝔞𝔫](https://www.rr.com/), a passionate self-taught front-end web developer and a freelance app developer from India. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community 
-### **😁Languages and Tools😉:**  
+
+ <h2>:anger:𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘:dizzy:<h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -37,7 +38,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br>
 
 ---
-## More About Me:man:
+## More About Me:boy:
 
 :heart: Kind people are my kinda people
 
@@ -47,10 +48,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 :apple: Beginner mindset (**open to learning**)
 
-:sparkles: Child at mind (**i see the world as miracl**)
+>*“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+― Albert Einstein*
 
-
->*I love to race in where animals fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
 ---
 ### 📈 My GitHub Stats
 
