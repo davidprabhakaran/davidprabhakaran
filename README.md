@@ -1,23 +1,25 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://imgur.com/a/QUloU55)
+
 <a herf="#">
 <img align="left" alt="david's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/PriorCrow">
   <img align="left" alt="david | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/david-prabhakaran-24b769207/">
   <img align="left" alt="david's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/">
-  <img align="left" alt="david's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.reddit.com/user/Prior_Crow">
+  <img align="left" alt="david's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  
+
 </a>
 <br>
 <br />
 
 Hi, I'm [David Prabhakaran](https://www.rr.com/), a passionate self-taught fron-end web developer and a freelance app developer from India. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+I am also an open-source enthusiast. I learned a lot from the open-source community 
 ### **😁Languages and Tools😉:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
