@@ -36,9 +36,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-
 ---
-## More About Me:boy:
+## ๓໐rē ค๖໐นt ๓ē:boy:
 
 :heart: Kind people are my kinda people
 
