@@ -1,10 +1,10 @@
 <img  width="30%" src="./hi.gif">
 <h2>:fire:𝕗𝕚𝕟𝕕 𝕞𝕖  𝕠𝕟:</h2>
-<a herf="https://discordapp.com/users/794194409721561108">
-   <img align="left" alt="david's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discordapp.com/users/794194409721561108">
+  <img align="left" alt="david's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/PriorCrow">
-  <img align="left" alt="david | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="david's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/david-prabhakaran-24b769207/">
   <img align="left" alt="david's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
