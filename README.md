@@ -1,4 +1,4 @@
-<img  width="30%" src="./hi.gif">
+<img  width="30%" src="https://imgur.com/soeGIlW.gif">
 <h2>:fire:𝕗𝕚𝕟𝕕 𝕞𝕖  𝕠𝕟:</h2>
 <a href="https://discordapp.com/users/794194409721561108">
   <img align="left" alt="david's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
